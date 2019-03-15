@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 tvch-id="1192" group-title="ИНФ/РАЗВЛЕКАТЕЛЬНЫЕ",ПЕРВЫЙ КАНАЛ +7
+http://95.181.235.143:999/udp/239.191.254.241:13343
+#EXTINF:-1 tvch-id="1238" group-title="КИНО/СЕРИАЛЫ",FOX HD
+http://159.253.169.58:999/udp/239.191.254.232:15283
+#EXTINF:-1 tvch-id="1064" group-title="КИНО/СЕРИАЛЫ",НСТ
+http://193.233.181.250:999/udp/239.191.254.67:13343
+#EXTINF:-1 tvch-id="44039" group-title="КИНО/СЕРИАЛЫ",НСТ
+http://85.15.119.12:4022/udp/238.0.2.92:1234
+#EXTINF:-1 tvch-id="1137" group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ПЯТНИЦА 
+http://193.233.181.250:999/udp/239.191.254.149:13343
+#EXTINF:-1 tvch-id="1020" group-title="КИНО/СЕРИАЛЫ",ТВ3 
+http://193.233.184.150:81/udp/239.191.254.22:13343
+#EXTINF:-1 tvch-id="1027" group-title="РАЗВЛЕКАТЕЛЬНЫЕ",СТС 
+http://193.233.184.150:81/udp/239.191.254.29:13343
+#EXTINF:-1 tvch-id="1049" group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ЧЕ 
+http://193.233.184.150:81/udp/239.191.254.52:13343
+#EXTINF:-1 tvch-id="1063" group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4 
+http://193.233.184.150:81/udp/239.191.254.66:13343
+#EXTINF:-1 tvch-id="1111" group-title="РАЗВЛЕКАТЕЛЬНЫЕ",РЕН ТВ 
+http://193.233.184.150:81/udp/239.191.254.122:13343
+#EXTINF:-1 tvch-id="1122" group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ 
+http://193.233.184.150:81/udp/239.191.254.133:13343
+#EXTINF:-1 tvch-id="1219" group-title="ПОЗНАВАТЕЛЬНЫЕ",ANIMAL PLANET HD
+http://193.233.184.150:81/udp/239.191.254.212:15283
+#EXTINF:-1 tvch-id="1224" group-title="ИНФ/РАЗВЛЕКАТЕЛЬНЫЕ",ПЕРВЫЙ КАНАЛ HD 
+http://193.233.184.150:81/udp/239.191.254.217:15283
+#EXTINF:-1 tvch-id="1231" group-title="ХОББИ/ДОСУГ",FOOD NETWORK HD
+http://193.233.184.150:81/udp/239.191.254.224:15283
+#EXTINF:-1 tvch-id="1236" group-title="ПОЗНАВАТЕЛЬНЫЕ",NATIONAL GEOGRAPHIC HD
+http://193.233.184.150:81/udp/239.191.254.230:15283
+#EXTINF:-1 tvch-id="1237" group-title="КИНО/СЕРИАЛЫ",FOX LIFE HD
+http://193.233.184.150:81/udp/239.191.254.231:15283
+#EXTINF:-1 tvch-id="1237" group-title="КИНО/СЕРИАЛЫ",FOX LIFE HD
+http://193.233.184.150:81/udp/239.191.254.231:15283
+#EXTINF:-1 tvch-id="1241" group-title="ПОЗНАВАТЕЛЬНЫЕ",NAT GEO WILD HD
+http://193.233.184.150:81/udp/239.191.254.235:15283
+#EXTINF:-1 tvch-id="1242" group-title="ПОЗНАВАТЕЛЬНЫЕ",ПРИКЛЮЧЕНИЯ HD
+http://193.233.184.150:81/udp/239.191.254.236:15283
+#EXTINF:-1 tvch-id="1264" group-title="ПОЗНАВАТЕЛЬНЫЕ",DISCOVERY CHANNEL 4K UHD
+http://193.233.184.150:81/udp/239.191.255.146:15283
+#EXTINF:-1 tvch-id="1268" group-title="ДЛЯ ВЗРОСЛЫХ",РУССКАЯ НОЧЬ 18+
+http://193.233.184.150:81/udp/239.191.254.13:15285
+#EXTINF:-1 tvch-id="1269" group-title="© http://ProxyTV.ru",FREE-X TV
+http://193.233.184.150:81/udp/239.191.254.38:15285
+#EXTINF:-1 tvch-id="1270" group-title="© http://ProxyTV.ru",CANDYMAN
+http://193.233.184.150:81/udp/239.191.254.114:15285
+#EXTINF:-1 tvch-id="1271" group-title="ДЛЯ ВЗРОСЛЫХ",O-LA-LA 18+
+http://193.233.184.150:81/udp/239.191.254.161:15285
+#EXTINF:-1 tvch-id="1272" group-title="ДЛЯ ВЗРОСЛЫХ",BRAZZERS TV 18+
+http://193.233.184.150:81/udp/239.191.254.170:15285
+#EXTINF:-1 tvch-id="1273" group-title="© http://ProxyTV.ru",CANDY
+http://193.233.184.150:81/udp/239.191.254.173:15285
+#EXTINF:-1 tvch-id="1274" group-title="МУЗЫКАЛЬНЫЕ",BRIDGE TV DANCE
+http://193.233.184.150:81/udp/239.191.254.240:15285
+#EXTINF:-1 tvch-id="1275" group-title="РАЗВЛЕКАТЕЛЬНЫЕ",SHOT TV
+http://193.233.184.150:81/udp/239.191.254.249:15285
+#EXTINF:-1 tvch-id="1276" group-title="ДЛЯ ВЗРОСЛЫХ",NU ART TV HD
+http://193.233.184.150:81/udp/239.191.254.250:15285
+#EXTINF:-1 tvch-id="1277" group-title="ДЛЯ ВЗРОСЛЫХ",FRENCH LOVER 18+
+http://193.233.184.150:81/udp/239.191.254.251:15285
+#EXTINF:-1 tvch-id="1278" group-title="© http://ProxyTV.ru",EROX
+http://193.233.184.150:81/udp/239.191.255.6:15285
